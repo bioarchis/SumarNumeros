@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Programa multiplicar");
+            Console.WriteLine("Programa oro");
             Console.WriteLine("Programa SumarNumeros2");
             Console.WriteLine("Programa SumarNumeros2");
             Console.WriteLine("Programa SumarNumeros2");
